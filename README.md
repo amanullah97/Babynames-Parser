@@ -1,4 +1,4 @@
-# git-repos
+# Babynames-Parser
 "Web Scraping Baby Names Data from [babynames](https://babynames.com/) using Selenium"
 
 This Git repository contains a Python script that utilizes Selenium to scrape baby names data from the [babynames](https://babynames.com/) website. The script interacts with the website, navigates through various pages, and extracts relevant information about baby names.
