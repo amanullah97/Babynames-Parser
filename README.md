@@ -1,7 +1,7 @@
 # git-repos
 "Web Scraping Baby Names Data from [babynames](https://babynames.com/) using Selenium"
 
-This Git repository contains a Python script that utilizes Selenium to scrape baby names data from the babynames.com website. The script interacts with the website, navigates through various pages, and extracts relevant information about baby names.
+This Git repository contains a Python script that utilizes Selenium to scrape baby names data from the [babynames](https://babynames.com/) website. The script interacts with the website, navigates through various pages, and extracts relevant information about baby names.
 
 The `BabyNames` class initializes the CSV file to store the scraped data and sets up the Selenium web driver. It starts by accessing the main website URL and then proceeds to parse the data.
 
